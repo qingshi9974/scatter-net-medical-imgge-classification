@@ -1,1 +1,0 @@
-# scattering-transform-and-svm-for-medical-image-classification
