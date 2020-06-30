@@ -1,4 +1,4 @@
-##introduction
+## introduction
 
 基于3D散射变换和支持向量机的肺部结节CT序列的良恶性分类
 
